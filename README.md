@@ -1,6 +1,6 @@
 # Unmaintained and backend no longer works. Feel free to view the codebase though.
 
-# Leon's Kitchen
+# OrderFlow
 Role based restaurant application (not mobile friendly - yet)
 
 ## Description
